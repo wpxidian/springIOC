@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+	<bean id="user" class="cn.edu.xidian.bean.User">
+		<property name="name">
+			<value>张三</value>
+		</property>
+		<property name="age">
+			<value>23</value>
+		</property>
+	</bean>
+
+</beans>
